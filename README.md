@@ -1,3 +1,8 @@
+Below are three videos part1 ,part2 and part 3 that briefly explain how this script is run as well as the archieve feature.
+https://www.loom.com/share/e48a56b7d69b4d40a4492a23b7f7a0ae
+https://www.loom.com/share/4e7ef0f311d746aebfd71ce1df9f73eb
+https://www.loom.com/share/583c58947bcb4e82bb3f13ef198d27ee
+
 This script setup_project.sh will create a parent directory named attendance_tracker_v1
 It also creates within the parent directory two directory named Helpers and reports containing assets.csv, config.json and reports.log respectively.
 This script allows you to change the attendance thresholds from the ones that a student starts receiving warning from to the mminimum attendance threshold required to pass the course.
